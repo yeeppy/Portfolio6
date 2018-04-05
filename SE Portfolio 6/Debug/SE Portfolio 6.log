@@ -1,8 +1,0 @@
-﻿  BubbleSort.cpp
-  MeanMedian.cpp
-c:\users\thomas liem\documents\visual studio 2017\projects\se portfolio 6\se portfolio 6\meanmedian.cpp(13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-  ModeStd.cpp
-  Source.cpp
-c:\users\thomas liem\documents\visual studio 2017\projects\se portfolio 6\se portfolio 6\source.cpp(3): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Generating Code...
-  SE Portfolio 6.vcxproj -> C:\Users\Thomas Liem\Documents\Visual Studio 2017\Projects\SE Portfolio 6\Debug\SE Portfolio 6.exe
